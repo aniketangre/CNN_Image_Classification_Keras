@@ -13,7 +13,6 @@ from keras.optimizers import RMSprop,Adam
 from keras.preprocessing.image import ImageDataGenerator
 from keras.callbacks import ReduceLROnPlateau
 from sklearn.metrics import confusion_matrix
-from keras.utils.np_utils import to_categorical
 import itertools
 import warnings
 warnings.filterwarnings('ignore')
