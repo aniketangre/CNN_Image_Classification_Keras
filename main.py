@@ -1,6 +1,5 @@
 # Convolutional Neural Networks - MNIST dataset
 
-# Import all necessary libraries and methods
 import numpy as np
 import pandas as pd
 import seaborn as sns
